@@ -1,7 +1,6 @@
 # Program Tugas Akhir RKK304 - Deep learning
 
 Teknik Robotika dan Kecerdasan Buatan
-
 Fakultas Teknologi Maju dan Multidisiplin
 
 Anggota: 
